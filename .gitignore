@@ -1,0 +1,5 @@
+# System detritus
+._*
+.*.swp
+.DS_Store
+.log
